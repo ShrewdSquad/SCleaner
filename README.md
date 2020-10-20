@@ -1,15 +1,5 @@
-<!--
-*** github_username, repo_name, twitter_handle, email
--->
-
 <!-- PROJECT SHIELDS -->
 <!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -17,7 +7,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 -->
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -33,6 +22,7 @@
     A Small &amp; Simple One Click Windows Cleanup Utility To Keep Your System Clean &amp; Optimized
     <br />
     <br />
+<a href="https://github.com/TheShrewdGamer/SCleaner/releases/download/0.3/SCleanerLite_0.3.zip">Download Latest Build</a>
   <!--
     <a href="https://github.com/TheShrewdGamer/SCleaner"><strong>Explore the docs »</strong></a>
     <br />
