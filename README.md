@@ -13,7 +13,7 @@
 <!--
 <p align="center">
   <a href="https://github.com/TheShrewdGamer/SCleaner">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://theshrewdgamer.com/img/scleaner/logo.png" alt="Logo" width="80" height="80">
   </a>
 -->
   <h3 align="center">SCleaner</h3>
@@ -48,12 +48,13 @@
   * [Installation](#installation)
 * [Roadmap](#roadmap)
 * [Contact](#contact)
+* [Credits](#credits)
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://theshrewdgamer.com/img/scleaner/logo.png)
 
  A Small &amp; Simple One Click Windows Cleanup Utility To Keep Your System Clean &amp; Optimized
 
@@ -102,8 +103,12 @@ See the [open issues](https://github.com/TheShrewdGamer/SCleaner/issues) for a l
 
 Project Link: [https://github.com/TheShrewdGamer/SCleaner](https://github.com/TheShrewdGamer/SCleaner)
 
+<!-- CREDITS -->
+## Credits
 
+[Tinku Gupta](https://www.linkedin.com/in/tinku-gupta/) For The Awesome Product Logo
 
+[Rahul Srivastava](https://www.linkedin.com/in/rahul1994) For The Product Design
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
