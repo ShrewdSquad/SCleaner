@@ -22,8 +22,9 @@
     A Small &amp; Simple One Click Windows Cleanup Utility To Keep Your System Clean &amp; Optimized
     <br />
     <br />
-<a href="https://github.com/TheShrewdGamer/SCleaner/releases/download/0.3/SCleanerLite_0.3.zip">Download Latest Build</a>
-  <!--
+   <!--
+    <a href="https://github.com/TheShrewdGamer/SCleaner/releases/download/0.3/SCleanerLite_0.3.zip">Download Latest Build</a>
+
     <a href="https://github.com/TheShrewdGamer/SCleaner"><strong>Explore the docs »</strong></a>
     <br />
     <br />
