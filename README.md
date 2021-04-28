@@ -1,19 +1,15 @@
 # SCleaner
-A Small &amp; Simple One Click Windows Cleanup Utility To Keep Your System Clean &amp; Optimized
+SCleaner is a Small &amp; Simple One Click System Cleanup Utility for Windows To Keep Your System Clean &amp; Optimized.
 
 ## Screenshots
 ![SCleaner](https://theshrewdgamer.com/Img/SCleaner/SCleaner%20Lite%202.jpg)
-
-## Built With
-* .Net Core 3.0
-* C# 8.0
 
 ## Getting Started
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+SCleaner is Built Using Net Core 3.1 &amp; C# 8.0 , So it Requires the Following Softwares to be installed.
 * .Net Core 3.1 Desktop Runtime
 ```sh
 https://dotnet.microsoft.com/download/dotnet-core/current/runtime
