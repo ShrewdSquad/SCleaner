@@ -38,29 +38,8 @@
 </p>
 
 
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Roadmap](#roadmap)
-* [Contact](#contact)
-* [Credits](#credits)
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://theshrewdgamer.com/img/scleaner/logo.png)
-
- A Small &amp; Simple One Click Windows Cleanup Utility To Keep Your System Clean &amp; Optimized
-
-
-### Built With
+<!-- BUILT With -->
+## Built With
 
 * []() .Net Core 3.0
 * []() C# 8.0
