@@ -27,7 +27,7 @@
 <h4 align="center">SCleaner is a Small &amp; Simple One Click System Cleanup Utility for Windows To Keep Your System Clean &amp; Optimized.</h4>
 
 <p align="center">
-  <img src="https://theshrewdgamer.com/Img/SCleaner/SCleaner%20Lite%202.jpg" alt="SCleaner" />
+  <img src="https://theshrewdgamer.com/Img/SCleaner/SCleaner.png" alt="SCleaner" />
 </p>
 
 ---
