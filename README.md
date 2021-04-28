@@ -5,12 +5,14 @@
   <img src="https://theshrewdgamer.com/Img/SCleaner/SCleaner%20Lite%202.jpg" alt="SCleaner" />
 </p>
 
+---
+
 ## Getting Started
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-SCleaner is Built Using Net Core 3.1 Hence Requires the Following Softwares to be installed.
+SCleaner is Built Using Net Core 3.1 Hence Requires the Following to be installed.
 * .Net Core 3.1 Desktop Runtime
 ```sh
 https://dotnet.microsoft.com/download/dotnet-core/current/runtime
