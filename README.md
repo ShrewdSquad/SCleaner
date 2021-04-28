@@ -1,7 +1,9 @@
-# SCleaner
-SCleaner is a Small &amp; Simple One Click System Cleanup Utility for Windows To Keep Your System Clean &amp; Optimized.
+<h1 align="center">SCleaner</h1>
+<h4 align="center">SCleaner is a Small &amp; Simple One Click System Cleanup Utility for Windows To Keep Your System Clean &amp; Optimized.</h4>
 
-![SCleaner](https://theshrewdgamer.com/Img/SCleaner/SCleaner%20Lite%202.jpg)
+<p align="center">
+  <img src="https://theshrewdgamer.com/Img/SCleaner/SCleaner%20Lite%202.jpg" alt="SCleaner" />
+</p>
 
 ## Getting Started
 To get a local copy up and running follow these simple steps.
