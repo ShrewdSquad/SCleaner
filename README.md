@@ -1,4 +1,14 @@
 <h1 align="center">SCleaner</h1>
+
+<p align="center">  
+
+<a href="https://github.com/TheShrewdGamer/SCleaner/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/TheShrewdGamer/SCleaner"></a>
+<a href="https://github.com/TheShrewdGamer/SCleaner/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/TheShrewdGamer/SCleaner"></a>
+<a href="https://github.com/TheShrewdGamer/SCleaner/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/TheShrewdGamer/SCleaner"></a>
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TheShrewdGamer/SCleaner">
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/TheShrewdGamer/SCleaner/total">
+</p>
+
 <h4 align="center">SCleaner is a Small &amp; Simple One Click System Cleanup Utility for Windows To Keep Your System Clean &amp; Optimized.</h4>
 
 <p align="center">
