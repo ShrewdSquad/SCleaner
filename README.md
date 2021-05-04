@@ -30,6 +30,10 @@
   <img src="https://theshrewdgamer.com/Img/SCleaner/SCleaner.png" alt="SCleaner" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/TheShrewdGamer/SCleaner/releases/latest">Download Latest Build</a>
+</p>
+
 ---
 
 ## Getting Started
