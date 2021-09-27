@@ -24,14 +24,14 @@
 
 </p>
 
-<h4 align="center">SCleaner is a Small &amp; Simple One Click System Cleanup Utility for Windows To Keep Your System Clean &amp; Optimized.</h4>
+<h4 align="center">SCleaner is a Small &amp; Simple System Cleanup, Privacy Manager Utility for Windows that Keeps Your System Clean &amp; Optimized.</h4>
 
 <p align="center">
-  <img src="https://theshrewdgamer.com/Img/SCleaner/SCleaner.png" alt="SCleaner" />
+  <img src="https://shrewdsquad.com/Img/SCleaner/SCleaner_Main.png" alt="SCleaner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/TheShrewdGamer/SCleaner/releases/latest">Download Latest Build</a>
+  <a href="https://github.com/ShrewdSquad/SCleaner/releases/latest">Download Latest Build</a>
 </p>
 
 ---
@@ -51,7 +51,7 @@ https://dotnet.microsoft.com/download/dotnet-core/current/runtime
 
 1. Download the Latest Release
 ```sh
-https://github.com/TheShrewdGamer/SCleaner/releases
+https://github.com/ShrewdSquad/SCleaner/releases
 ```
 2. UnZip & Run The App
 ```sh
@@ -69,11 +69,8 @@ To-do list:
 * Wow improvement to be done 2
 -->
 
-## Roadmap
-See the [open issues](https://github.com/TheShrewdGamer/SCleaner/issues) for a list of proposed features (and known issues).
-
 ## Contact
-Created by [TheShrewdGamer](https://Facebook.com/TheShrewdGamer) - feel free to contact me!
+Created by [ShrewdSquad](https://shrewdsquad.com) - feel free to contact us!
 
 ## Credits
 [Tinku Gupta](https://www.linkedin.com/in/tinku-gupta/) For The Awesome Product Logo
