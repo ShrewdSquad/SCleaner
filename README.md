@@ -24,7 +24,7 @@
 
 </p>
 
-<h4 align="center">SCleaner is a Small &amp; Simple System Cleanup, Privacy Manager Utility for Windows that Keeps Your System Clean &amp; Optimized.</h4>
+<h4 align="center">SCleaner is a Small &amp; Simple System Cleanup, Privacy Manager Utility for Windows.</h4>
 
 <p align="center">
   <img src="https://shrewdsquad.com/Img/SCleaner/SCleaner_Main.png" alt="SCleaner" />
@@ -42,9 +42,9 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 SCleaner is Built Using Net Core 3.1 Hence Requires the Following to be installed.
-* .Net Core 3.1 Desktop Runtime
+* .Net Core 3.1 Desktop Runtime x86
 ```sh
-https://dotnet.microsoft.com/download/dotnet-core/current/runtime
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.22-windows-x86-installer
 ```
 
 ### Installation
@@ -60,20 +60,19 @@ No Installation Needed
 
 <!--
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
 
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* System Cleanup
+* Awesome feature 2
 -->
+
 
 ## Contact
 Created by [ShrewdSquad](https://shrewdsquad.com) - feel free to contact us!
 
+<!--
 ## Credits
 [Tinku Gupta](https://www.linkedin.com/in/tinku-gupta/) For The Awesome Product Logo
 <br />
 [Rahul Srivastava](https://www.linkedin.com/in/rahul1994) For The Product Design
+-->
 
